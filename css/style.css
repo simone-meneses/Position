@@ -1,0 +1,37 @@
+main{
+        background-color:#cccccc;
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+        display: flex;
+    
+}
+.head{
+        background-color: #dcdcdc;
+        text-align: center;
+        padding: 20px;
+        font-size: 30px;
+        font-family: sans-serif;
+        font-weight: 700;
+}
+#interno{
+        background-color: #f9f9f9;
+        width: 50%;
+        padding: 10px;
+    
+}
+#texto{
+        width: 50%;
+        padding: 30px;
+    
+}
+
+
+#corpo{
+        height: 1000px;
+        width: 100%;
+}
+#imagem {
+    text-align: center;
+        padding: 10px;
+}
